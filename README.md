@@ -161,7 +161,7 @@ I'm always interested in connecting with fellow developers, potential collaborat
 
 - 💼 **LinkedIn:** [Dulaksha Dilshan](https://www.linkedin.com/in/dulaksha-dilshan-b9bb13313)
 - 📧 **Email:** [duladilshan823@gmail.com](mailto:duladilshan823@gmail.com)
-- 🌐 **Portfolio:** [Visit My Portfolio](http://localhost:8080/)
+- 🌐 **Portfolio:** [Visit My Portfolio](https://dulaksha-dilshan.netlify.app/)
 - 💻 **GitHub:** [@Dulaksha-Dilshan](https://github.com/Dulaksha-Dilshan)
 
 ---
