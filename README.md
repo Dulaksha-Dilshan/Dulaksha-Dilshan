@@ -159,7 +159,7 @@ A project management tool developed during my internship at SCITS Company for st
 
 I'm always interested in connecting with fellow developers, potential collaborators, and anyone passionate about technology!
 
-- 💼 **LinkedIn:** [Dulaksha Dilshan](https://www.linkedin.com/in/dulaksha-dilshan-b9bb13313)
+- 💼 **LinkedIn:** [Dulaksha Dilshan](https://www.linkedin.com/in/dulaksha-dilshan/)
 - 📧 **Email:** [duladilshan823@gmail.com](mailto:duladilshan823@gmail.com)
 - 🌐 **Portfolio:** [Visit My Portfolio](https://dulaksha-dilshan.netlify.app/)
 - 💻 **GitHub:** [@Dulaksha-Dilshan](https://github.com/Dulaksha-Dilshan)
