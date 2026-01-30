@@ -6,7 +6,7 @@
 
 ## 👨‍💻 About Me
 
-I'm a passionate **Web Developer** and **Computer Science Undergraduate** pursuing a degree in **Engineering Technology** at the **Faculty of Computing and Technology, University of Kelaniya**. Currently in my 1st year, I'm constantly learning and building projects to sharpen my skills in web development and software engineering.
+I’m a passionate Web Developer pursuing a degree in Engineering Technology at the Faculty of Computing and Technology, University of Kelaniya. Currently in my first year, I’m constantly learning and building projects to sharpen my skills in web development and software engineering.
 
 🔭 **Currently Working On:** Project Management Tool at **SCITS Company** (Internship)
 
