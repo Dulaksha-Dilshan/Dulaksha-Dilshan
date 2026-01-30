@@ -40,97 +40,106 @@ I'm a passionate **Web Developer** and **Computer Science Undergraduate** pursui
 
 ## 🚀 Featured Projects
 
-### 🛒 [Shop Mart - Product & Order Management System](https://github.com/Dulaksha-Dilshan/Shop_Mart)
+<div align="center">
+
+<table>
+<tr>
+<td width="50%" valign="top">
+
+### 🛒 Shop Mart
+**Product & Order Management System**
+
+![Laravel](https://img.shields.io/badge/Laravel-FF2D20?style=flat&logo=laravel&logoColor=white)
+![PHP](https://img.shields.io/badge/PHP-777BB4?style=flat&logo=php&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat&logo=mysql&logoColor=white)
+
 A comprehensive Laravel-based management system for handling products, inventory, orders, invoices, and customer data.
 
-**Tech Stack:** Laravel | PHP | MySQL | Bootstrap | JavaScript  
-**Features:**
-- Product & Stock Management
-- Order Processing System
-- Invoice & Bill Generation
-- Customer Database Management
-- Sales & Inventory Reports
-- Centralized Dashboard
+**Key Features:**
+- 📦 Product & Stock Management
+- 🧾 Order Processing System
+- 🧮 Invoice & Bill Generation
+- 👥 Customer Database
+- 📈 Sales & Inventory Reports
 
----
+[![View Project](https://img.shields.io/badge/View_Project-GitHub-181717?style=for-the-badge&logo=github)](https://github.com/Dulaksha-Dilshan/Shop_Mart)
 
-### 💼 [Dynamic Dark Portfolio](https://github.com/Dulaksha-Dilshan/dynamic-dark-portfolio)
+</td>
+<td width="50%" valign="top">
+
+### 💼 Dynamic Dark Portfolio
+**Personal Portfolio Website**
+
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat&logo=css3&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black)
+
 A modern, responsive portfolio website showcasing my work and skills with a sleek dark theme.
 
-**Tech Stack:** HTML | CSS | JavaScript | Bootstrap  
-**Features:**
-- Fully Responsive Design
-- Dark Theme UI
-- Project Showcase
-- Contact Form
-- Smooth Animations
+**Key Features:**
+- 🎨 Fully Responsive Design
+- 🌙 Dark Theme UI
+- 📂 Project Showcase
+- 📧 Contact Form
+- ✨ Smooth Animations
 
----
+[![View Project](https://img.shields.io/badge/View_Project-GitHub-181717?style=for-the-badge&logo=github)](https://github.com/Dulaksha-Dilshan/dynamic-dark-portfolio)
 
-### 🖥️ [Mr Tech - E-Commerce Platform](https://mrtech.lk/)
-A fully functional e-commerce website for tech products with modern design and seamless user experience.
+</td>
+</tr>
 
-**Tech Stack:** Laravel | PHP | MySQL | Tailwind CSS | JavaScript  
-**Features:**
-- Product Catalog
-- Shopping Cart System
-- User Authentication
-- Order Management
-- Payment Integration
-- Admin Dashboard
+<tr>
+<td width="50%" valign="top">
 
-**🌐 Live Preview:** [mrtech.lk](https://mrtech.lk/)
+### 📚 Mr Tech LMS
+**Learning Management System**
 
----
+![Laravel](https://img.shields.io/badge/Laravel-FF2D20?style=flat&logo=laravel&logoColor=white)
+![Tailwind](https://img.shields.io/badge/Tailwind-38B2AC?style=flat&logo=tailwind-css&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat&logo=mysql&logoColor=white)
 
-### 📚 LMS (Learning Management System)
-A comprehensive platform for managing educational content, courses, and student progress.
+A comprehensive e-learning platform combining educational content management with e-commerce capabilities.
 
-**Tech Stack:** Laravel | PHP | MySQL | Bootstrap  
-**Features:**
-- Course Management
-- Student Enrollment
-- Assignment Submission
-- Progress Tracking
-- Quiz & Assessment Tools
+**Key Features:**
+- 📖 Course Management
+- 👨‍🎓 Student Enrollment & Tracking
+- 📝 Assignment & Quiz System
+- 🛒 E-Commerce Integration
+- 💳 Payment Gateway
+- 📊 Admin Dashboard
 
----
+[![Live Demo](https://img.shields.io/badge/Live_Demo-Visit_Site-success?style=for-the-badge&logo=google-chrome)](https://mrtech.lk/)
 
-### 🏢 SCITS Company Internship - PM Tool
-A project management tool developed during my internship at SCITS Company to streamline team collaboration and task tracking.
+</td>
+<td width="50%" valign="top">
 
-**Tech Stack:** Laravel | PHP | MySQL | JavaScript  
-**Features:**
-- Task Assignment & Tracking
-- Team Collaboration
-- Project Timeline Management
-- Progress Reports
-- User Role Management
+### 🏢 SCITS PM Tool
+**Project Management System**
 
----
+![Laravel](https://img.shields.io/badge/Laravel-FF2D20?style=flat&logo=laravel&logoColor=white)
+![PHP](https://img.shields.io/badge/PHP-777BB4?style=flat&logo=php&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black)
 
-## 📊 GitHub Stats
+A project management tool developed during my internship at SCITS Company for streamlined team collaboration.
 
-<div align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Dulaksha-Dilshan&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Dulaksha-Dilshan&layout=compact&langs_count=8&theme=tokyonight"/>
+**Key Features:**
+- ✅ Task Assignment & Tracking
+- 👥 Team Collaboration
+- 📅 Project Timeline Management
+- 📊 Progress Reports
+- 🔐 User Role Management
+
+[![Company Project](https://img.shields.io/badge/Company-SCITS-blue?style=for-the-badge)](https://github.com/Dulaksha-Dilshan)
+
+</td>
+</tr>
+</table>
+
 </div>
 
 ---
 
-## 🏆 GitHub Trophies
 
-<div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=Dulaksha-Dilshan&theme=tokyonight&row=1&column=7" alt="trophy" />
-</div>
-
----
-
-## 📈 Contribution Graph
-
-[![Dulaksha's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=Dulaksha-Dilshan&theme=tokyo-night)](https://github.com/Dulaksha-Dilshan)
-
----
 
 ## 💡 What I'm Currently Working On
 
