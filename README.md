@@ -139,7 +139,11 @@ A project management tool developed during my internship at SCITS Company for st
 
 ---
 
+## 📈 Contribution Graph
 
+[![Dulaksha's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=Dulaksha-Dilshan&theme=tokyo-night)](https://github.com/Dulaksha-Dilshan)
+
+---
 
 ## 💡 What I'm Currently Working On
 
